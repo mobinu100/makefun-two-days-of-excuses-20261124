@@ -1,0 +1,12 @@
+{
+  "name": "makefun-two-days-of-excuses-20261124",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
